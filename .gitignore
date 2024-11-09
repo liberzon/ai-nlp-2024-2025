@@ -1,0 +1,9 @@
+/.ipynb_checkpoints/
+/.idea/
+/GoogleNews-vectors-negative300.bin.gz
+
+assignment1/*/spam_ham_dataset.csv
+assignment1/**/spam_ham_dataset.csv
+.idea/*
+
+.DS_Store
